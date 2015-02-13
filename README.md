@@ -1,3 +1,4 @@
 # vs3
-my snake catcher project
-my Name is Vinay S. Kumbhar From BECSE.
+My Name is Vinay S. Kumbhar From BECSE.
+Our Project Name is Snake Catcher Robot.
+
